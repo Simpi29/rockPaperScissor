@@ -43,7 +43,7 @@ class HelloWorld {
             } else if ((num == 1 && computerGeneratedNumber == 3) ||
                 (num == 2 && computerGeneratedNumber == 1) ||
                 (num == 3 && computerGeneratedNumber == 2)) {
-userWins++;
+                userWins++;
                 System.out.println("You won");
             }
         }
